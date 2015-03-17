@@ -8,7 +8,7 @@
   <link type="text/css" href="style.css" rel="stylesheet" media="screen">
  </head>  
  <body>   
-   <h3>Bienvenidos a hola</h3>
+   <h3>Bienvenidos a hola a jose maria</h3>
        <p>Como estan todos</p> 
  </body>
 </html>

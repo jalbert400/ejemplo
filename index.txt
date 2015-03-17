@@ -4,11 +4,11 @@
   <meta charset="utf-8"> 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">   
-  <title>Documento sin título</title>
+  <title>Documento sin tÃ­tulo</title>
   <link type="text/css" href="style.css" rel="stylesheet" media="screen">
  </head>  
  <body>   
-   <h3>Bienvenidos a hola</h3>
+   <h3>Bienvenidos a hola a pablo</h3>
        <p>Como estan todos</p> 
  </body>
 </html>

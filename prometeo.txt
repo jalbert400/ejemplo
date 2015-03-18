@@ -1,0 +1,23 @@
+
+            <div class="carousel" id="hp_carousel">
+                <div class="view view-hedu-homepage-carousel view-id-hedu_homepage_carousel view-display-id-block view-dom-id-82edfaa0fac7260a855645afee58f3b4">
+                    <div class="view-content">
+                        <?php                        
+                            $obj_banners = new Banners();
+                            $listBanners=$obj_banners->getBanners();
+                            echo '<pre>';
+    echo var_dump($listBanners);
+    echo '<pre>';
+
+                        ?>
+
+                    </div>
+                </div>
+            </div> 
+
+			
+			
+FTP
+IP:sisco-mitsui.com
+USUARIO: develowebftp
+PASSWORD: mitsui2015
